@@ -3,8 +3,8 @@
 int main() {
     int num1, num2, sum;
     
-    printf("Enter the 1st number: ");
-    scanf("%d", &num1);
+    printf("Enter the 4th number: ");
+    scanf("%d", &num4);
     
     printf("Enter the 2nd number: ");
     scanf("%d", &num2);
